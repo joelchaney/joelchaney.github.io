@@ -1,8 +1,8 @@
 excerpt_separator: ""
 pygments: true
 markdown: kramdown
-url: http://joelchaney.github.io
-title: learningtocode
+url: http://learningelixir.github.io
+title: codenotes
 tagline: learning Elixir
-description: My awesome new site
+description: 
 paginate: 5
